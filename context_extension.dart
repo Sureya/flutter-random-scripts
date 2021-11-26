@@ -49,7 +49,7 @@ class TestApp extends StatelessWidget {
           children: [
             Container(
               height: context.dynamicHeight(0.3),
-              width: context.dynamicHeight(0.5),
+              width: context.dynamicWidth(0.5),
               color: Colors.blue,
             )
           ],
