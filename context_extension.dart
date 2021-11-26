@@ -43,7 +43,7 @@ class TestApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "SwimBooker",
+      title: "Context Extension",
       home: Scaffold(
         body: Column(
           children: [
